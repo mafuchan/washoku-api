@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mcrecraft</groupId>
-	<artifactId>recipedb</artifactId>
+	<artifactId>recipes</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>recipes</name>
 	<description>Demo project for Spring Boot</description>
