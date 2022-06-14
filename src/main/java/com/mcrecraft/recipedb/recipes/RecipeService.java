@@ -27,7 +27,9 @@ public class RecipeService {
 
         if (foundResource.isPresent()) {
             Recipe updatedResource = foundResource.get();
-            updatedResource.setSomeProperty(recipe.getSomeProperty());
+            updatedResource.setName(recipe.getName());
+            updatedResource.setIngredients(recipe.getIngredients());
+            updatedResource.setDirections(recipe.getDirections());
 
             recipeRepository.save(updatedResource);
             return Optional.of(updatedResource);
