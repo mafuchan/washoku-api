@@ -11,7 +11,7 @@ import lombok.Data;
 
 @Entity
 @Data
-@Table(name = "recipe")
+@Table(name = "recipedb")
 public class Recipe {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
