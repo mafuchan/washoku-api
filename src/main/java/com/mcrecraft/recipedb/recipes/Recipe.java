@@ -11,7 +11,7 @@ import lombok.Data;
 
 @Entity
 @Data
-@Table(name = "recipedb")
+@Table(name = "recipes")
 public class Recipe {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
@@ -25,4 +25,7 @@ public class Recipe {
 
     @Column(name = "directions")
     private String directions;
+
+    @Column(name = "image")
+    private String image;
 }
