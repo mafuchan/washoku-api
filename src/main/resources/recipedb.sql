@@ -50,7 +50,7 @@ VALUES
 • 1 tsp. salt
 • 1 tsp. ground black pepper
 • 1 egg, beaten
-•  Canola oil, enough to fry in
+• Canola oil, enough to fry in
 • 2-3 leaves Napa cabbage, shredded finely
 Tonkatsu sauce or ketchup mixed with worcestershire sauce',
 'Trim pork of any fat. If the pieces are too thick, flatten with a frying pan or the flat side of a meat tenderizer. Mix together the flour, salt and pepper, and place in a bowl that is large enough to hold 1 piece of the pork. Beat the egg till it is the consistency for scrambled eggs and place in another bowl. Have panko on hand in another bowl as well.
@@ -58,7 +58,7 @@ Tonkatsu sauce or ketchup mixed with worcestershire sauce',
 Dredge the pork in the flour mixture, making sure the pork is completely covered. Then, dredge in the egg bath and finally in the panko. Make sure to get as much of the pork covered in panko. Heat the canola oil to 320 F and add the pork in 2 at a time. Fry them on each side for a few minutes or until a golden brown. Remove from the oil and place on paper towels to absorb any excess grease. Let cool and slice into small to medium strips.
 
 Serve with the shredded napa cabbage and tonkatsu sauce. If you do not have tonkatsu sauce, mix the ketchup and worcestershire to taste. Should have a tangy hint of worcestershire, while still retaining the ketchup flavor.',
-null
+'https://ik.imagekit.io/washoku/knife.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1655264307099',
     );
 
 INSERT into
@@ -78,7 +78,7 @@ VALUES
 • Okonomiyaki sauce (or tonkatsu sauce)
 • Japanese Mayonnaise',
 'Cut the cabbage into very thin slices. Beat an egg in a bowl and add dashi soup stock or water in it. Add flour in the bowl and mix well. Combine sliced cabbage in the flour mixture. Fry meat/squid/shrimps (your choice of toppings) in an electric cooking pan or a frying pan. Pour the flour mixture over the toppings in the pan.(Make a couple pan cakes.) Cook a few minutes and flip pancakes and cook for a few more minutes. Put okonomiyaki sauce and mayonnaise on top of the pan cakes. Sprinkle katsuobushi flakes, aonori, beni-shoga on top.',
-null
+'https://ik.imagekit.io/washoku/knife.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1655264307099',
     );
 
 INSERT into
@@ -107,7 +107,7 @@ VALUES
 'In a large saute pan or wok on medium high and add peanut oil. Add mussels and clams to pan and cook for one minute. Add salmon and halibut, season with salt and pepper and cook for 2 minutes. Deglaze pan with sake and lemon juice. Add pea shoots, bok choy, and shrimp and cook for one minute or until shrimp is cooked.
 Place cooked udon noodles in bottom of large soup bowl or split into four bowls for individual servings. Arrange cooked seafood and vegetables over udon noodles and pour miso broth over to cover. Arrange cherry tomato halves on top of soup.
 Drizzle soup with hot chile oil; add more or less to your preference, and garnish with scallion threads.',
-null
+'https://ik.imagekit.io/washoku/knife.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1655264307099',
     );
 
 INSERT into
@@ -126,7 +126,7 @@ VALUES
 'Place cold water in pot with kombu and heat until just before boiling. Remove kombu and discard. Add dashi and bring to a boil turn off heat and let stand one minute. Strain broth through fine sieve.
 Remove from heat and add remaining ingredients, stirring well to incorporate. Each time you use the miso broth, you will need to stir well, since the miso will settle to the bottom.
 Never boil your miso broth once the miso has been added, this will break down the miso and cause the soup to be grainy.',
-null
+'https://ik.imagekit.io/washoku/knife.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1655264307099',
     );
 
 INSERT into
@@ -139,11 +139,11 @@ VALUES
 • 1 pound thinly sliced beef 1 onion
 • 1 1/3 cup dashi soup
 • 5 tbsps soy sauce
-•  3 tbsps mirin
+• 3 tbsps mirin
 • 2 tbsps sugar
 • 1 tsp sake
 • benishoga (red ginger) for topping',
 'Cook Japanese rice. Slice onion thinly. Cut beef into bite-sized pieces. Put dashi, soysauce, sugar, mirin, and sake in a pan. Add onion slices in the pot and simmer for a few minutes. Add beef in the pan and simmer for a few minutes. Serve hot steamed rice in a deep rice bowl. Put the beef topping on the top of rice. Place some benishoga (red ginger) on the top if you would like.',
-null
+'https://ik.imagekit.io/washoku/knife.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1655264307099',
     );
 
